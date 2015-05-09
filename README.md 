@@ -1,0 +1,5 @@
+Watch changes:
+$ tsc --watch -m commonjs -t es5 --emitDecoratorMetadata app.ts
+
+Boot server:
+http-server 
